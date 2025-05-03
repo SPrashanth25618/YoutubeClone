@@ -70,9 +70,6 @@ p{
     padding:3px;
     border-radius: 3px;
 }
-.one-video{
-    
-}
 .header{
     display: flex;
     justify-content: end;
@@ -176,9 +173,5 @@ p{
     padding:4px;
     pointer-events: none;
     transition: opacity 0.45s;
-
-}
-.search-button
-{
 
 }
