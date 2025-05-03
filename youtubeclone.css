@@ -16,6 +16,7 @@ p{
     grid-template-columns: 1fr 1fr 1fr;
     column-gap:20px;
     row-gap: 45px;
+    cursor: pointer;
 }
 .below-thumbnail{
     margin-top: 8px;
@@ -144,7 +145,6 @@ p{
 .lens
 {
     height:24px;
-
 }
 .search-button
 {
@@ -152,7 +152,7 @@ p{
     padding-top:2px;
     padding-bottom:1px;
     width:60px;
-
+    cursor: pointer;
     margin-right:10px;
     position: relative;
 }
@@ -173,5 +173,5 @@ p{
     padding:4px;
     pointer-events: none;
     transition: opacity 0.45s;
-
+    cursor: pointer;
 }
